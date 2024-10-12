@@ -16,10 +16,11 @@ I’m a passionate software developer with a strong focus on web and mobile app 
 - Other Tools: Git, Xcode, Android Studio
 
 🛠️ Projects
-- [Geilio] - Productive customizable Timer
+- [Geilio Timer] - Productive customizable Timer
   - [Product Hunt](https://www.producthunt.com/products/geilio-timer#geilio-timer)
   - [App Store](https://apps.apple.com/lt/app/geilio-timer/id6446805524)
   - [Google Store](https://play.google.com/store/apps/details?id=com.geilio.android.timer&hl=en_AU)
+  - [Website](https://geilio.com/)
 
 📝 Blog & Articles
 - How to Optimize React Native Performance
